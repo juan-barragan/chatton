@@ -3,6 +3,7 @@ Technical exercise. A web application using django allowing to chat. we use redi
 Proceed with the following instructions:
 
 # create a python virtual environment
+# install requirements
 # install docker 
 # download & run redis image 
 docker run -p 6379:6379 -d redis
